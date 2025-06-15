@@ -1,0 +1,4 @@
+*.pem
+__pycache__/
+venv/
+main.ipynb
